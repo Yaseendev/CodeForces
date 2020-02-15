@@ -3,7 +3,7 @@
     #include<bits/stdc++.h>
     using namespace std;
     
-    const int MAX_CHAR = 26;
+    const int MAX_CHAR = 10;
     static string words[10000001];
     
     string sortString(string str) 
